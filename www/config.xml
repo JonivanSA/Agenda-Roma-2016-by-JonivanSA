@@ -65,7 +65,10 @@
 	<gap:plugin name="com.phonegap.plugin.statusbar" />
 	<gap:plugin name="com.adobe.plugins.gaplugin" /> 
 
-
+	<!-- NOU PER PODER FER ZOOM A LES IMATGES -->
+	<plugin name="com.kumbe.phonegap.zoom.zoomcontrol" spec="0.1.8" source="pgb" />
+	
+	
 	<!-- ********************************************************************************** -->
 	<!-- ********************** ICONS & SPLASH CONFIGURATION ****************************** -->
 	<!-- ********************************************************************************** -->
